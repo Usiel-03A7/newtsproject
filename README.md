@@ -1,8 +1,18 @@
-# React + Vite
+#To Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Todo List Application! This project is designed to help users manage their daily tasks efficiently and effectively. The application provides a simple and intuitive interface for adding, editing, and deleting tasks, ensuring that you can keep track of everything you need to do.
 
-Currently, two official plugins are available:
+Current Features:
+Add Tasks: Quickly add new tasks to your list with a straightforward input form.
+Edit Tasks: Easily update the details of your tasks.
+Delete Tasks: Remove tasks that are no longer needed.
+Task Management: View all your tasks in a clean, organized list.
+Future Plans:
+We are excited to announce that we are planning to introduce a login feature in the near future. This enhancement will allow users to create personal accounts and securely log in to manage their to-do lists. With this feature, users will be able to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create Accounts: Register for an account to start using the application.
+Login/Logout: Securely log in and out of the application.
+Personalized Task Lists: Save and manage their personal to-do lists online.
+Stay tuned for more updates as we continue to improve the Todo List Application and make it even more useful for managing your daily tasks!
+
+Thank you for using our Todo List Application. We look forward to bringing you these exciting new features soon!
