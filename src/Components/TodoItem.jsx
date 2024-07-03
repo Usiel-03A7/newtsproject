@@ -18,15 +18,15 @@ function TodoItem({ todo, deleteTodo, updateTodo }) {
                         value={newText}
                         onChange={(e) => setNewText(e.target.value)}
                     />
-                    <button onClick={handleUpdate}>Update</button>
+                    <button onClick={handleUpdate}>Actualizar</button>
                 </>
             ) : (
                 <>
                     <span>{todo.text}</span>
-                    <button onClick={() => setIsEditing(true)}>Edit</button>
+                    <button onClick={() => setIsEditing(true)}>Editar</button>
                 </>
             )}
-            <button onClick={() => deleteTodo(todo.id)}>Delete</button>
+            <button onClick={() => deleteTodo(todo.id)}>Eliminar</button>
         </li>
     );
 }
