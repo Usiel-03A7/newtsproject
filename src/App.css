@@ -1,0 +1,23 @@
+form{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 3rem;
+  width: 90%;
+  gap: 3rem;
+}
+button {
+  padding: 10px;
+}
+input{
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.itemList{
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  text-align: center;
+  align-items: center;
+}
