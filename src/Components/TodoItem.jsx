@@ -8,7 +8,7 @@ function TodoItem({ todo, deleteTodo, updateTodo }) {
         updateTodo(todo.id, newText);
         setIsEditing(false);
     };
-
+    //aqui tambien
     return (
         <li className="itemList">
             {isEditing ? (
